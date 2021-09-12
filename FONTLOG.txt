@@ -1,0 +1,5 @@
+Authors: Barbara Bolognese and Aurelio Carlucci
+
+Purpose: this font was created within a research project on the Old Roman and Beneventan repertories: some tools, necessary to translate well-studied but not mainstream repertories like such into square notation, were not currently available. This led to the creation of tailored glyphs, whose design aimed at a two-fold purpose: to reproduce the symbols in the original they were supposed to translate as faithfully as possible, and to harmoniously integrate both the Greciliae and the Joseph_Pothier fonts.
+
+Reserved font name: Iohannes, after the name signed at one of the last pages of the Codex Bodmer 74.
